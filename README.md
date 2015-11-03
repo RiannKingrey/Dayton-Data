@@ -1,2 +1,2 @@
-# Dayton-Open-Data
+# Dayton-Data
 Information on Dayton's open data

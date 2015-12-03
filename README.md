@@ -24,3 +24,9 @@ This source has many features to use when it comes to finding open data about Da
 http://www.daytonohio.gov/departments/omb/Documents/DaytonOpenDataUserGuide.pdf
 
 This is a pdf file where it goes into detail on how to use the website under City of Dayton. Which allows quicker access time to information. 
+
+##Historical Climatology 
+
+http://graham.umich.edu/media/files/DA_S1_DaytonOH_Historical_Climatology.pdf
+
+From 1950's till 2010, it gives information on climate and weather of the Dayton area. For example, precipitation, and temperature. 
